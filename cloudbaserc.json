@@ -1,0 +1,11 @@
+{
+  "envId": "{{envId}}",
+  "lowcodeCustomComponents": {
+    "name": "markdown",
+    "configRoot": "./src/configs",
+    "platformRoot": {
+      "web": "./src/web",
+      "mp": "./src/mp"
+    }
+  }
+}
